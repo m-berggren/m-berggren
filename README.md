@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   <!-- Header -->
   <h3>Hi, I'm Marcus &#128075</h2>
 
   <!-- Description -->
-  <p align="justify">
+  <p>
   I'm a software engineering student doing my Bachelor's studies in Software Engineering and Management at a joint program between Chalmers University of Technology and Gothenburg University. I'm deeply passionate about automation, with strong interests in DevOps, software architecture, and solving complex technical challenges. Always eager to explore new technologies and enhance development workflows through modern practices.
   </p>
 
