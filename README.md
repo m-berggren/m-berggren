@@ -7,7 +7,7 @@
 
   Passionate about automation with strong interests in DevOps, software architecture, and problem solving.
 
-  ![Stats](profile/stats.svg)
+  <!-- Commenting out for now: ![Stats](profile/stats.svg) -->
   ![Top Languages](profile/top-langs.svg)
 
 </div>
