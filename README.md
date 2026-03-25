@@ -1,13 +1,15 @@
-<div align="left">
+### Hi, I'm Marcus
 
-  <h2>Hi there! &#128075</h2>
+Software Engineering and Management (BSc) student at the University of Gothenburg, graduating 2026.
 
-  <p>
-  I'm Marcus, a third-year Software Engineering and Management (BSc) student at Chalmers Institute of Technology and the University of Gothenburg.
+I am passionate about automation, DevOps, and building tools that make workflows smoother.
 
-  Passionate about automation with strong interests in DevOps, software architecture, and problem solving.
+#### Languages
 
-  <!-- Commenting out for now: ![Stats](profile/stats.svg) -->
-  ![Top Languages](profile/top-langs.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-berggren&layout=compact&langs_count=6&theme=default&hide=html,css,vue,jupyter%20notebook&card_width=400&hide_title=true)
 
-</div>
+#### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,gcp" />
+</p>
